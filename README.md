@@ -5,7 +5,7 @@ Este é um projeto de Web Scraper desenvolvido em Node.js que tem como objetivo 
 
 ## Contexto
 
-O Web Scraper foi desenvolvido como parte de uma prova prática para a disciplina de **Núcleo de Tecnologia da Informação (NUTI)**. O objetivo do projeto é demonstrar as habilidades em programação, Web Scraping e manipulação de banco de dados SQLite.
+O Web Scraper foi desenvolvido como parte de uma prova prática para a vaga de estágio na NUTI. O objetivo do projeto é demonstrar as habilidades em programação, Web Scraping e manipulação de banco de dados, utilizando SQLite, express, axios, cheerio, nodejs, html, css e JavaScript.
 
 ## Funcionalidades
 
