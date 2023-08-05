@@ -38,13 +38,13 @@ cd WebScraper-NUTI
 4. Instale as dependências do projeto:
 
 ```
-npm install
+npm install axios fs sqlite3 express cheerio
 ```
 
 5. Inicie o servidor:
 
 ```
-npm start
+node start api2.js
 ```
 
 6. O servidor estará rodando na porta 3000. Você pode acessar o Web Scraper através do navegador ou utilizar ferramentas como o Postman para fazer requisições POST para a rota "/scrape" com a URL da página a ser analisada no corpo da requisição.
